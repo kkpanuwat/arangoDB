@@ -1,28 +1,11 @@
-national_id	full_name	organization	email_address	url
-20000000000111	�ҧ��ǡ����� ��͹��ҹ	Khon Kaen University	kankaew.o@kkumail.com	https://computing.kku.ac.th/certificate/2001
-20000000000112	��¡�õ� ⾸�����	Khon Kaen University	keerati.ph@kkumail.com	https://computing.kku.ac.th/certificate/2002
-20000000000113	����ɮ��ó� ����ࡵ�	Khon Kaen University	jedsadaporn.s@kkumail.com	https://computing.kku.ac.th/certificate/2003
-20000000000114	��©ѵ����� �ѵ�Ҫ�	Khon Kaen University	chatmongkhon.o@kkumail.com	https://computing.kku.ac.th/certificate/2004
-20000000000115	��ª��Ѳ�� ��ͧ�ص�	Khon Kaen University	chonpat.k@kkumail.com	https://computing.kku.ac.th/certificate/2005
-20000000000116	��³���� �ح����	Khon Kaen University	nathanon.b@kkumail.com	https://computing.kku.ac.th/certificate/2006
-20000000000117	��³���� ���ɰ�	Khon Kaen University	nathayu.w@kkumail.com	https://computing.kku.ac.th/certificate/2007
-20000000000118	��³Ѱ���� ˹ͧ��	Khon Kaen University	nattanaphol.n@kkumail.com	https://computing.kku.ac.th/certificate/2008
-20000000000119	��¸��ȡ� �Ե�����Ҿѹ���	Khon Kaen University	tassakorn.k@kkumail.com	https://computing.kku.ac.th/certificate/2009
-20000000000120	�ҧ��ǹ�Թ�Ծ�� ��ո����	Khon Kaen University	nalintip.s@kkumail.com	https://computing.kku.ac.th/certificate/2010
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+﻿national_id,full_name,organization,email_address,url
+20000000000111,นางสาวกาลแก้ว อ่อนหวาน,Khon Kaen University,kankaew.o@kkumail.com,https://computing.kku.ac.th/certificate/2001
+20000000000112,นายกีรติ โพธิ์ศรี,Khon Kaen University,keerati.ph@kkumail.com,https://computing.kku.ac.th/certificate/2002
+20000000000113,นายเจษฎาภรณ์ ศิริเกตุ,Khon Kaen University,jedsadaporn.s@kkumail.com,https://computing.kku.ac.th/certificate/2003
+20000000000114,นายฉัตรมงคล อัตถาชน,Khon Kaen University,chatmongkhon.o@kkumail.com,https://computing.kku.ac.th/certificate/2004
+20000000000115,นายชนพัฒน์ ครองยุติ,Khon Kaen University,chonpat.k@kkumail.com,https://computing.kku.ac.th/certificate/2005
+20000000000116,นายณฐนนท บุญพรหม,Khon Kaen University,nathanon.b@kkumail.com,https://computing.kku.ac.th/certificate/2006
+20000000000117,นายณธายุ วรเชษฐ์,Khon Kaen University,nathayu.w@kkumail.com,https://computing.kku.ac.th/certificate/2007
+20000000000118,นายณัฐธนพล หนองพล,Khon Kaen University,nattanaphol.n@kkumail.com,https://computing.kku.ac.th/certificate/2008
+20000000000119,นายธรรศกร กิตติโสภาพันธุ์,Khon Kaen University,tassakorn.k@kkumail.com,https://computing.kku.ac.th/certificate/2009
+20000000000120,นางสาวนลินทิพย์ ศรีธรรมา,Khon Kaen University,nalintip.s@kkumail.com,https://computing.kku.ac.th/certificate/2010
